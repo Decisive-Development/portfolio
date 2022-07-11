@@ -109,7 +109,6 @@ a[href^=tel] {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: ;
     transition: right 0.8s cubic-bezier(1, 0, 0, 1);
     z-index: 2;
 }

@@ -45,7 +45,7 @@
     <meta name="description" content="Tom Penny - Freelance website development for individuals or small business. Focusing on exceptional user interface and providing a slick experience. Based in south east England. ">
     <meta name="keywords" content="FREELANCE, WEBSITE, DEVELOPMENT, PORTFOLIO, UI/UX, UI, UX, DARKMODE, HOSTING, FRONTEND, BACKEND, FULLSTACK, RESPONSIVE">
     <meta name="autor" content="Decisive Development">
-    <script src="https://kit.fontawesome.com/6e3790483c.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/345d8951ba.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 </head>
 <body>
